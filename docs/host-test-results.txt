@@ -1,0 +1,20 @@
+PASS 165 host parameters
+PASS MIDI input advertised
+PASS Drive endpoints +/-48 dB
+PASS parameter serialization roundtrip
+PASS mono bus
+PASS stereo bus
+PASS impulse including latency: 4 rates x 6 blocks x mono/stereo
+PASS latency 1184 samples
+PASS external mono sidechain bus enabled
+PASS host sidechain buffer controls compressor
+PASS MIDI note events in host block
+PASS MIDI held-note fallback
+PASS host MIDI CC
+PASS Pong positions restored from host state
+PASS restored Pong simulation continues deterministically
+PASS GUI page rendered
+PASS GUI page rendered
+PASS GUI page rendered
+PASS GUI page rendered
+Failures: 0

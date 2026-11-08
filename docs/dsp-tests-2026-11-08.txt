@@ -1,0 +1,28 @@
+PASS neutral moving windows stereo : 0
+PASS WOLA masks unity under full overlap +6dB : 1.1920929e-07
+PASS extreme finite : 0.891250908
+PASS DSP callback allocations : 0
+PASS neutral moving windows stereo : 0
+PASS WOLA masks unity under full overlap +6dB : 1.1920929e-07
+PASS extreme finite : 0.891250908
+PASS DSP callback allocations : 0
+PASS neutral moving windows stereo : 0
+PASS WOLA masks unity under full overlap +6dB : 1.1920929e-07
+PASS extreme finite : 0.891250908
+PASS DSP callback allocations : 0
+PASS neutral moving windows stereo : 0
+PASS WOLA masks unity under full overlap +6dB : 1.1920929e-07
+PASS extreme finite : 0.891250908
+PASS DSP callback allocations : 0
+PASS host chunk independence (sample-timed targets) : 0
+PASS host chunk independence (sample-timed targets) : 0
+PASS host chunk independence (sample-timed targets) : 0
+PASS host chunk independence (sample-timed targets) : 0
+PASS host chunk independence (sample-timed targets) : 0
+PASS Velvet vs Iron waveform difference : 0.00595575737
+PASS positive vs negative transient : 0.0346735947
+BENCH 60 seconds stereo / 48k: 5.23680682 seconds wall; realtime fraction 0.0872801137
+PASS 60 second run : 0.198380798
+PASS attack rises and release recovers after 3s silence : 0
+PASS NaN / Inf / silence recovery : 0
+Failures: 0

@@ -1,0 +1,25 @@
+PASS Butterworth cut calibration across 4 rates / 4 slopes / HP+LP : 0.00700836
+PASS 4x OS reduces folded fifth harmonic for 9 kHz probe (dB) : -89.9627
+PASS linked lookahead sample ceiling under overload : 0.891251
+PASS MIDI last-note priority : 0
+PASS MIDI release falls back to held note : 0
+PASS velocity zero releases note : 0
+PASS MIDI CC input : 0
+PASS external sidechain controls GR : 18
+PASS adaptive drive reduction under sustained stress : 24.0001
+PASS HOLD freezes adaptive state : 0
+PASS adaptive recovery in silence : 5.77852e-08
+PASS PLAY/matrix/hall identical across blocks 32 and 1024 : 0
+PASS plate audible finite tail in each routing position : 0.000113358
+PASS plate audible finite tail in each routing position : 0.000113358
+PASS plate audible finite tail in each routing position : 0.000113358
+PASS Pong collision events generated : 1
+PASS Pong misses update score : 0
+BENCH full colour x5 + GLUE + PLAY 10s stereo: 1.59469 sec / realtime fraction 0.159469
+PASS matrix negative polarity applies to Drive : -24
+PASS route destination change crossfades instead of jumping : 0
+PASS all-feature +/-48 dB overload finite and limited : 0.891251
+PASS all-feature +/-48 dB overload finite and limited : 0.891251
+PASS all-feature +/-48 dB overload finite and limited : 0.891251
+PASS all-feature +/-48 dB overload finite and limited : 0.891251
+Failures: 0

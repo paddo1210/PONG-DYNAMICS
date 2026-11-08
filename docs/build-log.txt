@@ -1,0 +1,42 @@
+MSBuild-Version 17.14.60+43b635718 f├╝r .NET Framework
+
+  Checking File Globs
+  PongDynamics_rc_lib.vcxproj -> C:\Users\klang\Documents\Codex\2026-11-05\new-chat-5\build\PongDynamics_rc_lib.dir\Release\PongDynamics_rc_lib.lib
+  PongDynamics_vst3_helper.vcxproj -> C:\Users\klang\Documents\Codex\2026-11-05\new-chat-5\build\Release\PongDynamics_vst3_helper.exe
+  Plugin.cpp
+C:\Users\klang\Documents\Codex\tools\VSBuild\VC\Tools\MSVC\14.44.35207\include\memory(3630,56): warning C4244: "Argument": Konvertierung von "_Ty" in "float", m├Âglicher Datenverlust [C:\Users\klang\Documents\Codex\2026-11-05\new-chat-5\build\PongDynamics.vcxproj]
+C:\Users\klang\Documents\Codex\tools\VSBuild\VC\Tools\MSVC\14.44.35207\include\memory(3630,56): warning C4244:         with [C:\Users\klang\Documents\Codex\2026-11-05\new-chat-5\build\PongDynamics.vcxproj]
+C:\Users\klang\Documents\Codex\tools\VSBuild\VC\Tools\MSVC\14.44.35207\include\memory(3630,56): warning C4244:         [ [C:\Users\klang\Documents\Codex\2026-11-05\new-chat-5\build\PongDynamics.vcxproj]
+C:\Users\klang\Documents\Codex\tools\VSBuild\VC\Tools\MSVC\14.44.35207\include\memory(3630,56): warning C4244:             _Ty=int [C:\Users\klang\Documents\Codex\2026-11-05\new-chat-5\build\PongDynamics.vcxproj]
+C:\Users\klang\Documents\Codex\tools\VSBuild\VC\Tools\MSVC\14.44.35207\include\memory(3630,56): warning C4244:         ] [C:\Users\klang\Documents\Codex\2026-11-05\new-chat-5\build\PongDynamics.vcxproj]
+  (Quelldatei ÔÇ×../PongDynamics/Source/Plugin.cppÔÇ£ wird kompiliert)
+      C:\Users\klang\Documents\Codex\tools\VSBuild\VC\Tools\MSVC\14.44.35207\include\memory(3630,56):
+      der Vorlageninstanziierungskontext (der ├ñlteste zuerst) ist
+          C:\Users\klang\Documents\Codex\2026-11-05\new-chat-5\PongDynamics\Source\Processor.h(31,557):
+          Siehe Verweis auf die gerade kompilierte Instanziierung "std::unique_ptr<juce::AudioParameterFloat,std::default_delete<juce::AudioParameterFloat>> std::make_unique<juce::AudioParameterFloat,juce::ParameterID,juce::String,juce::NormalisableRange<float>,int,0>(juce::ParameterID &&,juce::String &&,juce::NormalisableRange<float> &&,int &&)" der Funktions-Vorlage.
+  
+  PongDynamics.vcxproj -> C:\Users\klang\Documents\Codex\2026-11-05\new-chat-5\build\PongDynamics_artefacts\Release\PONG DYNAMICS_SharedCode.lib
+     Bibliothek "C:/Users/klang/Documents/Codex/2026-11-05/new-chat-5/build/PongDynamics_artefacts/Release/VST3/PONG DYNAMICS.lib" und Objekt "C:/Users/klang/Documents/Codex/2026-11-05/new-chat-5/build/PongDynamics_artefacts/Release/VST3/PONG DYNAMICS.exp" werden erstellt.
+  PongDynamics_VST3.vcxproj -> C:\Users\klang\Documents\Codex\2026-11-05\new-chat-5\build\PongDynamics_artefacts\Release\VST3\PONG DYNAMICS.vst3\Contents\x86_64-win\PONG DYNAMICS.vst3
+  removing moduleinfo.json
+  creating C:/Users/klang/Documents/Codex/2026-11-05/new-chat-5/build/PongDynamics_artefacts/Release/VST3/PONG DYNAMICS.vst3
+  features.cpp
+  host.cpp
+  PongDynamics_Standalone.vcxproj -> C:\Users\klang\Documents\Codex\2026-11-05\new-chat-5\build\PongDynamics_artefacts\Release\Standalone\PONG DYNAMICS.exe
+  render.cpp
+  pong_features.vcxproj -> C:\Users\klang\Documents\Codex\2026-11-05\new-chat-5\build\Release\pong_features.exe
+  tests.cpp
+  pong_render.vcxproj -> C:\Users\klang\Documents\Codex\2026-11-05\new-chat-5\build\Release\pong_render.exe
+C:\Users\klang\Documents\Codex\tools\VSBuild\VC\Tools\MSVC\14.44.35207\include\memory(3630,56): warning C4244: "Argument": Konvertierung von "_Ty" in "float", m├Âglicher Datenverlust [C:\Users\klang\Documents\Codex\2026-11-05\new-chat-5\build\pong_host_tests.vcxproj]
+C:\Users\klang\Documents\Codex\tools\VSBuild\VC\Tools\MSVC\14.44.35207\include\memory(3630,56): warning C4244:         with [C:\Users\klang\Documents\Codex\2026-11-05\new-chat-5\build\pong_host_tests.vcxproj]
+C:\Users\klang\Documents\Codex\tools\VSBuild\VC\Tools\MSVC\14.44.35207\include\memory(3630,56): warning C4244:         [ [C:\Users\klang\Documents\Codex\2026-11-05\new-chat-5\build\pong_host_tests.vcxproj]
+C:\Users\klang\Documents\Codex\tools\VSBuild\VC\Tools\MSVC\14.44.35207\include\memory(3630,56): warning C4244:             _Ty=int [C:\Users\klang\Documents\Codex\2026-11-05\new-chat-5\build\pong_host_tests.vcxproj]
+C:\Users\klang\Documents\Codex\tools\VSBuild\VC\Tools\MSVC\14.44.35207\include\memory(3630,56): warning C4244:         ] [C:\Users\klang\Documents\Codex\2026-11-05\new-chat-5\build\pong_host_tests.vcxproj]
+  (Quelldatei ÔÇ×../PongDynamics/Tests/host.cppÔÇ£ wird kompiliert)
+      C:\Users\klang\Documents\Codex\tools\VSBuild\VC\Tools\MSVC\14.44.35207\include\memory(3630,56):
+      der Vorlageninstanziierungskontext (der ├ñlteste zuerst) ist
+          C:\Users\klang\Documents\Codex\2026-11-05\new-chat-5\PongDynamics\Source\Processor.h(31,557):
+          Siehe Verweis auf die gerade kompilierte Instanziierung "std::unique_ptr<juce::AudioParameterFloat,std::default_delete<juce::AudioParameterFloat>> std::make_unique<juce::AudioParameterFloat,juce::ParameterID,juce::String,juce::NormalisableRange<float>,int,0>(juce::ParameterID &&,juce::String &&,juce::NormalisableRange<float> &&,int &&)" der Funktions-Vorlage.
+  
+  pong_tests.vcxproj -> C:\Users\klang\Documents\Codex\2026-11-05\new-chat-5\build\Release\pong_tests.exe
+  pong_host_tests.vcxproj -> C:\Users\klang\Documents\Codex\2026-11-05\new-chat-5\build\Release\pong_host_tests.exe

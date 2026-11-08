@@ -1,0 +1,4 @@
+01-Neutral RMS -19.1988 dBFS; peak -6.32647 dBFS
+02-Static RMS -19.1988 dBFS; peak -3.31161 dBFS
+03-Adaptive-Matrix RMS -19.1988 dBFS; peak -1.41162 dBFS
+04-Pong-Play RMS -19.1988 dBFS; peak -2.93977 dBFS
