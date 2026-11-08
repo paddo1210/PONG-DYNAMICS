@@ -1,0 +1,10 @@
+/build*/
+/Audio-v2/
+.vs/
+.vscode/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
+
+/vendor/
